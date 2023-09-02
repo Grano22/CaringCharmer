@@ -1,0 +1,21 @@
+{
+    "name": "grano22/caring_charmer",
+    "description": "Library for automated or manual anonymization, tokenization and processing",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Grano22\\CaringCharmer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrian Błasiak",
+            "email": "grano22@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-ctype": "*"
+    }
+}
